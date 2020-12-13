@@ -12,7 +12,7 @@ type Person struct {
 
 func heapSortByName(people []*Person) {
 	maxIdx := len(people) - 1
-	for idx := int(math.Floor(float64(len(people))/2)) - 1; idx > 0; idx-- {
+	for idx := int(math.Floor(float64(len(people))/2)) - 1; idx >= 0; idx-- {
 		makeMaxHeapByName(people, idx, maxIdx)
 	}
 

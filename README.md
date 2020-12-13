@@ -32,16 +32,16 @@ Name: Daniel, State: Maine
 Name: Jackie, State: Vermont
 Name: Marie, State: New Hampshire
 Name: Michelle, State: Maine
-Name: Vivian, State: Maine
 Name: Thomas, State: New Hampshire
+Name: Vivian, State: Maine
 
 --- Sorted by State (heap sort: unstable) ----
-Name: Michelle, State: Maine
 Name: Daniel, State: Maine
+Name: Michelle, State: Maine
 Name: Chris, State: Maine
 Name: Vivian, State: Maine
-Name: Marie, State: New Hampshire
 Name: Thomas, State: New Hampshire
+Name: Marie, State: New Hampshire
 Name: Annie, State: New Hampshire
 Name: Jackie, State: Vermont
 
@@ -66,8 +66,8 @@ Name: Daniel, State: Maine
 Name: Jackie, State: Vermont
 Name: Marie, State: New Hampshire
 Name: Michelle, State: Maine
-Name: Vivian, State: Maine
 Name: Thomas, State: New Hampshire
+Name: Vivian, State: Maine
 
 --- Sorted by State (merge sort: stable) ----
 Name: Chris, State: Maine
